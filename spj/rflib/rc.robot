@@ -1,0 +1,3 @@
+
+*** Settings ***
+Library  pylib.SchoolClassLib
